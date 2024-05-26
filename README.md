@@ -33,7 +33,7 @@ Manovich destaca la convergència de mitjans com a característica clau de la hi
 
 Una de les funcions més importants dels altaveus intel·ligents és la utilització de les **rutines**[^3], que s'activen a partir d'un iniciador, com ara quan diem una frase, quan arriba una hora específica, amb la sortida o posta del sol, o quan un dispositiu realitza una acció, per exemple, quan s'encén un llum. Aquest iniciador activa un conjunt d’accions que hem configurat prèviament, com ajustar dispositius domèstics (encendre o apagar llums, endolls, ajustar termòstats, etc.), rebre informació i recordatoris (previsió meteorològica, el trànsit fins al nostre lloc de feina, etc.), entre moltes altres possibilitats.
 
-![Rutines Google Home](rutines.png)
+<center>![Rutines Google Home](rutines.png)</center>
 
 A més, aquests dispositius **faciliten l’accessibilitat a persones amb problemes de visió o a la gent gran**. Els altaveus intel·ligents influeixen en la manera com accedim a la informació, gestionem la nostra llar i ens comuniquem. La seva presència a la nostra llar crea una nova forma d’interacció amb la tecnologia, provocant importants canvis socials i culturals.
 
