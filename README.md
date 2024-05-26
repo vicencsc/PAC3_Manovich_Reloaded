@@ -35,7 +35,7 @@ Una de les funcions més importants dels altaveus intel·ligents és la utilitza
 
 ![Rutines Google Home](rutines.png)
 
-A més, aquests dispositius **faciliten l’accessibilitat a persones amb problemes de visió o a la gent gran**. Els altaveus intel·ligents influeixen en la manera com accedim a la informació, gestionem la nostra llar i ens comuniquem. La seva presència a la nostra llar crea una nova forma d’interacció amb la tecnologia, provocant importants canvis socials i culturals.
+Aquests altaveus i pantalles intel·ligents **faciliten l’accessibilitat a persones amb problemes de visió o a la gent gran**. També influeixen en la manera com accedim a la informació, gestionem la nostra llar i ens comuniquem. La seva presència a la nostra llar crea una nova forma d’interacció amb la tecnologia, provocant importants canvis socials i culturals.
 
 El **futur dels altaveus intel·ligents**, com moltes altres coses, està lligat a l’aplicació de la **intel·ligència artificial**, el que permetrà una important millora en el reconeixement de la veu i les seves respostes. Millorarà la capacitat d’assistència, per exemple, ens podrà demanar cites pel metge o reservar un restaurant. Millorarà la personalització de les nostres preferències i gustos. Les respostes seran contextuals, essent més naturals i rellevants respecte al que li demanem. El control domòtic de la nostra llar estarà més eficient, anticipant-se a les nostres peticions i necessitats, com per exemple, encenent el llum o graduant la temperatura abans que li demanem nosaltres, etc.
 
@@ -73,7 +73,7 @@ Finalment, la **privacitat** dels usuaris també està en perill, ja que els veh
 
 ## Conclusió
 
-Tant els altaveus intel·ligents com els taxis autònoms són clars exemples de la hibridació que descriu Manovich. Tot i que els dos casos que hem exposat representen grans avanços tecnològics i tenen molts avantatges, també impliquen grans canvis socials i culturals, i sobretot presenten importants reptes que fan necessaris desenvolupar tota una sèrie de normatives i legislacions per protegir tots els usuaris i la societat en general, i per garantir un ús segur i equitatiu d’aquestes tecnologies.
+Tant els **altaveus intel·ligents** com els **taxis autònoms** són clars exemples de la hibridació que descriu Manovich. Tot i que els dos casos que hem exposat representen grans avanços tecnològics i tenen molts avantatges, també impliquen grans canvis socials i culturals, i sobretot presenten importants reptes que fan necessaris desenvolupar tota una sèrie de normatives i legislacions per protegir tots els usuaris i la societat en general, i per garantir un ús segur i equitatiu d’aquestes tecnologies.
 
 
 
