@@ -19,13 +19,13 @@ Dos exemples clars d’hibridació són els **altaveus intel·ligents** i els se
 
 ## Re-descobrint la hibridació: Altaveus intel·ligents
 
->"Ok Google, quin temps farà aquesta setmana?"
+>"*Ok Google, quin temps farà aquesta setmana?*"
 >
->"Alexa, encén el llum de la cuina."
+>"*Alexa, encén el llum de la cuina.*"
 >
->"Siri, posa música."
+>"*Siri, posa música.*"
 
-Aquestes frases són habituals per a molts de nosaltres en el nostre dia a dia a casa. Personalment, faig servir l’ecosistema de Google, però també hi ha altres opcions populars com Alexa d’Amazon i Siri d’Apple, a més de molts altres dispositius intel·ligents menys coneguts que formen part d'un extens catàleg.
+Aquestes frases són habituals per a molts de nosaltres en el nostre dia a dia a casa. Personalment, faig servir l’ecosistema de [**Google Nest**](https://store.google.com/es/product/nest_hub_2nd_gen?hl=es), juntament amb l'aplicació [**Google Home**](https://home.google.com/intl/es_es/welcome/), que em permet configurar tots els dispositius, però també hi ha altres opcions populars com Alexa d’Amazon i Siri d’Apple, a més de molts altres dispositius intel·ligents menys coneguts que formen part d'un extens catàleg.
 
 Manovich destaca la convergència de mitjans com a característica clau de la hibridació. Els altaveus intel·ligents en són un bon exemple, ja que combinen tecnologia d’àudio, en alguns casos també de vídeo, de text, de reconeixement de veu i de connexió a internet. Aquesta hibridació ens permet escoltar música, veure vídeos de YouTube i contingut en streaming en els models amb pantalla, obtenir tot tipus d’informació i fins i tot controlar tot tipus de dispositius de la nostra llar (llums, temperatura, endolls, aire condicionat, robots de neteja, televisor, etc.), comunicar-nos amb els nostres contactes i moltes altres opcions que van sorgint, simplement demanant-ho amb la nostra veu o utilitzant la pantalla tàctil. Aquesta interacció és personalitzada, ja que els altaveus ens reconeixen per la veu i adapten les seves respostes al nostre perfil.
 
