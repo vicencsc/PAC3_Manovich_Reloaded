@@ -6,7 +6,7 @@ Autor: Vicenç Sastre Calvó
 
 Data: 26/05/2024
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+
 
 
 ## Plantejament
@@ -18,6 +18,8 @@ Per començar, aturem-nos un moment en el concepte d’hibridació. Segons Lev M
 Dos exemples clars d’hibridació són els **altaveus intel·ligents** i els serveis de **taxi amb vehicles de conducció autònoma**. En aquest assaig analitzarem, des de la perspectiva de Manovich, el seu impacte actual, el seu futur amb l’aplicació de la intel·ligència artificial i els reptes que suposen per als usuaris i tota la societat en general.
 
 ## Re-descobrint la hibridació: Altaveus intel·ligents
+
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 >"*Ok Google, quin temps farà aquesta setmana?*"
 >
