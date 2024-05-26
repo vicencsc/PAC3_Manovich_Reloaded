@@ -81,7 +81,7 @@ Tant els **altaveus intel·ligents** com els **taxis autònoms** són clars exem
 ### Referències i Bibliografia
 
 [^1]: *Manovich, Lev. (2013)*. **El Software toma el mando**. Barcelona: Editorial UOC. 
-[^2]: FERNANDEZ, YUBAL. [Qué es Matter: qué ventajas ofrece y cómo identificar sus dispositivos](https://www.xataka.com/basics/que-matter-que-ventajas-ofrece-como-identificar-sus-dispositivos) [en línia]. *Xataka*, 11/01/2023 [consulta: 07/05/2024]. Disponible a: https://www.xataka.com/basics/que-matter-que-ventajas-ofrece-como-identificar-sus-dispositivos
+[^2]: FERNANDEZ, YUBAL. [Qué es Matter: qué ventajas ofrece y cómo identificar sus dispositivos](https://www.xataka.com/basics/que-matter-que-ventajas-ofrece-como-identificar-sus-dispositivos) [en línia]. *Xataka*, 11/01/2023 [consulta: 07/05/2024].
 [^3]: *Xataca Android*. [**Rutinas de la casa de Google Home: así puedes hacer más inteligente tu hogar**](https://www.xatakandroid.com/aplicaciones-android/rutinas-casa-google-home-asi-puedes-hacer-inteligente-tu-hogar).
 [^4]: *Wikipedia*. [**Alphabet**](https://es.wikipedia.org/wiki/Alphabet).
 
