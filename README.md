@@ -78,7 +78,7 @@ Tant els altaveus intel·ligents com els taxis autònoms són exemples clars de 
 
 ### Referències i Bibliografia
 
-[^1]: * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+[^1]: *Manovich, Lev. (2013)*. **El Software toma el mando**. Barcelona: Editorial UOC. 
 [^2]: *Xataca*. [**Qué ventajas ofrece y como identificar sus dispositivos**](https://www.xataka.com/basics/que-matter-que-ventajas-ofrece-como-identificar-sus-dispositivos)
 [^3]: *Xataca Android*. [**Rutinas de la casa de Google Home: así puedes hacer más inteligente tu hogar**](https://www.xatakandroid.com/aplicaciones-android/rutinas-casa-google-home-asi-puedes-hacer-inteligente-tu-hogar).
 [^4]: *Wikipedia*. [**Alphabet**](https://es.wikipedia.org/wiki/Alphabet).
