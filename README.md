@@ -53,15 +53,15 @@ Aquests serveis de taxis autònoms implicaran una reducció de la congestió del
 
 Aquests sistemes de conducció autònoma, encara que estan en els seus inicis, es beneficiaran enormement amb l’aplicació de la **intel·ligència artificial** més avançada, el que suposarà una millora notable en les capacitats d’aquesta tecnologia. Això permetrà una interacció més natural amb els passatgers. També permetrà adaptar-se millor a les condicions de trànsit, preveure accidents, millorar les rutes, entre altres avantatges.
 
-Una de les principals empreses que presten aquest tipus de serveis és [Waymo](https://waymo.com/intl/es/), una empresa propietat d’Alphabet[^4], matriu de Google, que opera a San Francisco i algunes altres ciutats dels EUA.
+Una de les principals empreses que presten aquest tipus de serveis és [Waymo](https://waymo.com/intl/es/), una empresa propietat d’**Alphabet**[^4], matriu de Google, que opera a San Francisco i algunes altres ciutats dels EUA.
 
-Com tot avanç tecnològic, quan es generalitzin els serveis de taxis amb conducció autònoma es presentaran alguns reptes importants. Un dels principals reptes és la probable pèrdua de llocs de treball per als conductors de taxi. A més, la responsabilitat en cas d’accidents serà un tema complicat de gestionar, ja que serà necessari establir qui és responsable quan es produeixi un incident.
+Com tot avanç tecnològic, quan es generalitzin els serveis de taxis amb conducció autònoma es presentaran alguns **reptes importants**. Un dels principals reptes és la probable **pèrdua de llocs de treball** per als conductors de taxi. A més, la **responsabilitat en cas d’accidents** serà un tema complicat de gestionar, ja que serà necessari establir qui és responsable quan es produeixi un incident.
 
-La ciberseguretat és un altre gran repte, ja que l’accés a internet dels vehicles autònoms els fa vulnerables a ciberatacs, que podrien tenir conseqüències greus tant per a la seguretat dels passatgers del vehicle com pels altres vehicles i fins i tot per les infraestructures de la ciutat.
+La **ciberseguretat** és un altre gran repte, ja que l’accés a internet dels vehicles autònoms els fa vulnerables a ciberatacs, que podrien tenir conseqüències greus tant per a la seguretat dels passatgers del vehicle com pels altres vehicles i fins i tot per les infraestructures de la ciutat.
 
-A nivell social, serà necessari desenvolupar polítiques que facin possible l’accés de tothom a aquests serveis, assegurant que no només una part de la població es beneficiï d’aquestes innovacions en mobilitat. A més, l'impacte en la gestió del trànsit i el desenvolupament urbanístic de les ciutats serà significatiu, ja que la generalització dels taxis autònoms podria canviar la manera com es planifiquen i gestionen els espais urbans.
+A nivell social, serà necessari desenvolupar polítiques que facin possible l’**accés de tothom a aquests serveis**, assegurant que no només una part de la població es beneficiï d’aquestes innovacions en mobilitat. A més, l'impacte en la gestió del trànsit i el desenvolupament urbanístic de les ciutats serà significatiu, ja que la generalització dels taxis autònoms podria canviar la manera com es planifiquen i gestionen els espais urbans.
 
-Finalment, la privacitat dels usuaris també està en perill, ja que els vehicles autònoms recopilen una gran quantitat de dades sobre les rutes, preferències i comportaments dels usuaris. Serà molt important establir normes estrictes per protegir aquestes dades i assegurar-se que s’utilitzen de manera responsable i ètica.
+Finalment, la **privacitat** dels usuaris també està en perill, ja que els vehicles autònoms recopilen una gran quantitat de dades sobre les rutes, preferències i comportaments dels usuaris. Serà molt important establir normes estrictes per protegir aquestes dades i assegurar-se que s’utilitzen de manera responsable i ètica.
 
 ## Conclusió
 
