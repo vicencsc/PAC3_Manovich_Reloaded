@@ -3,6 +3,7 @@
 ## Recurs d’aprenentatge de Cultura Digital
 
 Autor: Vicenç Sastre Calvó
+
 Data: 26/05/2024
 
 
