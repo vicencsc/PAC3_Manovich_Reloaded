@@ -85,12 +85,15 @@ Tant els **altaveus intel·ligents** com els **taxis autònoms** són clars exem
 [^3]: *Xataca Android*. [**Rutinas de la casa de Google Home: así puedes hacer más inteligente tu hogar**](https://www.xatakandroid.com/aplicaciones-android/rutinas-casa-google-home-asi-puedes-hacer-inteligente-tu-hogar).
 [^4]: *Wikipedia*. [**Alphabet**](https://es.wikipedia.org/wiki/Alphabet).
 
+Vehículos autónomos https://es.wikipedia.org/wiki/Veh%C3%ADculo_aut%C3%B3nomo
+Mundo deportivo. https://www.mundodeportivo.com/us/actualidad/20240523/690617/autoridades-toman-fuerte-medida-waymo-taxis-autonomos-conductor.html
+
 
 ----
 
 ## Llicències: 
 
-Material Creative Commons desenvolupat sota llicència [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). 
+Excepte on s'indique el contrari, tot el contingut d'aquest projecte està desenvolupat sota llicència Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). 
 
 Imatges:
 
