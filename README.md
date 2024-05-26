@@ -84,7 +84,7 @@ Excepte on s'indiqui el contrari, tot el contingut d'aquest projecte està desen
 
 Imatges:
 
-Google Nest: Imatge original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
+Google Nest: Fotografia original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
 
 Rutines Google Home: Imatge original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
 
@@ -94,12 +94,14 @@ Waymo logo:[w:Waymo](https://commons.wikimedia.org/wiki/File:Waymo_logo.svg), Pu
 
 ### Referències i Bibliografia
 
-[^1]: *Manovich, Lev. (2013)*. **El Software toma el mando**. Barcelona: Editorial UOC. 
+[^1]: MANOVICH, LEV. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
 [^2]: FERNÁNNDEZ, YÚBAL. [Qué es Matter: qué ventajas ofrece y cómo identificar sus dispositivos](https://www.xataka.com/basics/que-matter-que-ventajas-ofrece-como-identificar-sus-dispositivos) [en línia]. *Xataka*, Data de publicació: 11/01/2023 [consulta: 07/05/2024].
-[^3]: COSMOS. [Rutinas de la casa de Google Home: así puedes hacer más inteligente tu hogar](https://www.xatakandroid.com/aplicaciones-android/rutinas-casa-google-home-asi-puedes-hacer-inteligente-tu-hogar)[en línia]. *Xataka Android*, Data de publicació: 04/02/2023 [consulta: 15/05/2024].
+[^3]: COSMOS. [Rutinas de la casa de Google Home: así puedes hacer más inteligente tu hogar](https://www.xatakandroid.com/aplicaciones-android/rutinas-casa-google-home-asi-puedes-hacer-inteligente-tu-hogar)[en línia]. *Xataka Android*, Data de publicació: 04/02/2023 [consulta: 07/05/2024].
 [^4]: WIKIPEDIA. [Alphabet](https://es.wikipedia.org/wiki/Alphabet) [en línia]. *Wikipedia*, Data de consulta: 07/05/2024.
 [^5]: WIKIPEDIA. [Vehículos autónomos](https://es.wikipedia.org/wiki/Veh%C3%ADculo_aut%C3%B3nomo) [en línia]. *Wikipedia*, Data de consulta: 10/05/2024.
 [^6]: WIKIPEDIA. [Waymo](https://es.wikipedia.org/wiki/Waymo) [en línia]. *Wikipedia*, Data de consulta: 11/05/2024.
+
+MANOVICH, LEV. *El software toma el mando*. Barcelona: Editorial UOC, 2013 [Consulta: 02/05/2024]
 
 SCHWARZ, LEONARDO. [Las autoridades en USA toman una fuerte medida con Waymo, los taxis autónomos sin conductor](https://www.mundodeportivo.com/us/actualidad/20240523/690617/autoridades-toman-fuerte-medida-waymo-taxis-autonomos-conductor.html) [en línia]. *Mundo deportivo*, Data d'actualització: 23/05/2024 [consulta:24/05/2024].
 
