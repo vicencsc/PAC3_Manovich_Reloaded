@@ -11,19 +11,19 @@ Data: 26/05/2024
 
 ## Plantejament
 
-Per començar, aturem-nos un moment en el concepte d’hibridació. Segons Lev Manovich, la **hibridació**[^1] és la combinació i mescla de diferents tecnologies, mitjans i llenguatges en un entorn digital. Aquest procés sovint implica canvis significatius en la nostra percepció de la cultura i la societat, així com en la manera en què creem, consumim i experimentem els mitjans.
+Per començar, aturem-nos un moment en el concepte d’hibridació. Segons Lev Manovich, la hibridació és la combinació i mescla de diferents tecnologies, mitjans i llenguatges en un entorn digital. Aquest procés sovint implica canvis significatius en la nostra percepció de la cultura i la societat, així com en la manera en què creem, consumim i experimentem els mitjans.
 
-> "La hibridació" (Manovich, 2013)[^2]
+> "Las propiedades y tecnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vias que antes resultaban imposibles." (Manovich, 2013)[^1]
 
 Dos exemples clars d’hibridació són els altaveus intel·ligents i els serveis de taxi amb vehicles de conducció autònoma. En aquest assaig analitzarem, des de la perspectiva de Manovich, el seu impacte actual, el seu futur amb l’aplicació de la intel·ligència artificial i els reptes que suposen per als usuaris i tota la societat.
 
 ## Re-descobrint la hibridació: Altaveus intel·ligents
 
-> "Ok Google, quin temps farà aquesta setmana?"
+"Ok Google, quin temps farà aquesta setmana?"
 
-> "Alexa, encén el llum de la cuina."
+"Alexa, encén el llum de la cuina."
 
-> "Siri, posa música."
+"Siri, posa música."
 
 Aquestes frases són habituals per a molts de nosaltres en el nostre dia a dia a casa. Personalment, faig servir l’ecosistema de Google, però també hi ha altres opcions populars com Alexa d’Amazon i Siri d’Apple, a més de molts altres dispositius intel·ligents menys coneguts que formen part d'un extens catàleg.
 
@@ -67,9 +67,16 @@ Finalment, la privacitat dels usuaris també està en perill, ja que els vehicle
 
 Tant els altaveus intel·ligents com els taxis autònoms són exemples clars de la hibridació que descriu Manovich. Tot i que els dos casos que hem exposat representen grans avanços tecnològics i tenen molts avantatges, també impliquen grans canvis socials i culturals, i sobretot presenten importants reptes que fan necessaris desenvolupar tota una sèrie de normatives i legislacions per protegir tots els usuaris i la societat en general, i per garantir un ús segur i equitatiu d’aquestes tecnologies.
 
-### Referencias y Bibliografía
+### Referències i Bibliografia
 
 [^1]: * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+
+----
+
+Llicència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0. 
+Imatges CC BY [Tubik studio]
+(https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
 
 ----
