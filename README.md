@@ -65,7 +65,7 @@ Una de les principals empreses que presten aquest tipus de serveis és [Waymo](h
 
 Com tot avanç tecnològic, quan es generalitzin els serveis de taxis amb conducció autònoma es presentaran alguns **reptes importants**. Un dels principals reptes és la probable **pèrdua de llocs de treball** per als conductors de taxi. A més, la **responsabilitat en cas d’accidents** serà un tema complicat de gestionar, ja que serà necessari establir qui és responsable quan es produeixi un incident.
 
-La **ciberseguretat** és un altre gran repte, ja que l’accés a internet dels vehicles autònoms els fa vulnerables a ciberatacs, que podrien tenir conseqüències greus tant per a la seguretat dels passatgers del vehicle com pels altres vehicles i fins i tot per les infraestructures de la ciutat.
+La **ciberseguretat** és un altre gran repte, ja que l’accés a internet dels vehicles autònoms els fa vulnerables a ciberatacs, que podrien tenir conseqüències greus tant per a la seguretat dels passatgers del vehicle com pels altres conductors i vianants o fins i tot per les infraestructures de la ciutat.
 
 A nivell social, serà necessari desenvolupar polítiques que facin possible l’**accés de tothom a aquests serveis**, assegurant que no només una part de la població es beneficiï d’aquestes innovacions en mobilitat. A més, l'impacte en la gestió del trànsit i el desenvolupament urbanístic de les ciutats serà significatiu, ja que la generalització dels taxis autònoms podria canviar la manera com es planifiquen i gestionen els espais urbans.
 
