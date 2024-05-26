@@ -31,5 +31,26 @@ El futur dels altaveus intel·ligents, com moltes altres coses, està lligada a 
 Com altres molts avanços tecnològics, els altaveus intel·ligents, comporten reptes importants per als usuaris i usuàries. Un dels principals reptes és la manca de privacitat, ja que es recopilen i processen, en tot moment, gran quantitat de dades personals en servidors remots. Un altre repte important és la falta de seguretat, ja que l’accés a internet exposa aquests dispositius, i per extensió a tots els dispositius de la nostra llar, al risc de ciberatacs. 
 A nivell social, hi ha el perill de la desigualtat digital, ja que no tothom disposa de la mateixa facilitat d’accés a aquests serveis, ja sigui per motius educatius o econòmics, deixant-los en desavantatge respecte als que sí hi tenim accés i els utilitzem sovint.
 
+## Re-descobrint la hibridació: Taxis de conducció autònoma
+
+Els serveis públics de transport de passatgers amb vehicles de conducció autònoma, o taxis autònoms, encara que estan en els seus inicis i disponibles en molt poques ciutats, representen el futur de la nostra manera de moure’ns.
+Aquest taxis autònoms són un bon exemple de la hibridació descrita per Lev Manovich, ja que combinen tecnologia de conducció autònoma, basada en sensors, càmeres i algoritmes, l’accés a internet, que permet obtenir informació en temps real del transit, evitant embossos i seleccionant les millor rutes, etc., i la interacció amb els usuaris i usuàries mitjançant la veu i aplicacions mòbils, per sol·licitar el taxi autònom, indicar la destinació i rebre informació sobre el viatge en curs, etc.
+
+Des de la perspectiva de Manovich, la utilització generalitzada dels taxis de conducció autònoma, implicarà un gran canvi en la  nostra manera de moure’ns per la ciutat, oferint un tipus de transport més eficient i segur.
+
+Aquests serveis de taxis autònoms implicaran una reducció de la congestió del trànsit i dels accidents, i a més facilitaran la mobilitat de persones amb discapacitat o sense carnet de conduir. Els vehicles autònoms operen de manera més segura i eficient que els conductors humans, ja que poden reaccionar més ràpidament davant de perills potencials i optimitzar les rutes per evitar zones congestionades.
+
+Aquests sistemes de conducció autònoma encara que estan en els seus inicis, es beneficiaran enormement amb l’aplicació del la intel·ligència artificial més avançada, el que suposarà una millora notable en les capacitats d’aquesta tecnologia. Això permetrà una  interacció més natural amb els passatgers. També permetrà adaptar-se millor a les condicions de trànsit, preveure accidents, millorar les rutes, entre altres avantatges. 
+
+Una de les principals empreses que presten aquest tipus de serveis és Waymo, una empresa propietat d’Alphabet, matriu de Google, que opera a San Francisco i algunes altres ciutats dels EUA. 
+
+Com tot avanç tecnològic, quan es generalitzin els serveis de taxis amb conducció autònoma es presentaran alguns reptes importants. Un dels principals reptes és la provable pèrdua de llocs de treball per als conductors de taxi. A més, la responsabilitat en cas d’accidents serà un tema complicat de gestionar, ja que serà necessari establir qui és responsable quan es produeixi un incident. 
+
+La ciberseguretat és un altre gran repte, ja que l’accés a internet dels vehicles autònoms els fa vulnerables a ciberatacs, que podrien tenir conseqüències greus tant per a la seguretat dels passatgers del vehicle com pels altres vehicles i fins i tot per les infraestructures de la ciutat. 
+
+A nivell social, serà necessari desenvolupar polítiques que facin possible l’accés de tothom a aquests serveis, assegurant que no només una part de la població es beneficiï d’aquestes innovacions en mobilitat. A més, l'impacte en la gestió del trànsit i el desenvolupament urbanístic de les ciutats serà significatiu, ja que la generalització dels taxis autònoms podria canviar la manera com es planifiquen i gestionen els espais urbans.
+
+Finalment, la privacitat dels usuaris també està en perill, ja que els vehicles autònoms recopilen una gran quantitat de dades sobre les rutes, preferències i comportaments dels usuaris. Serà molt important establir normes estrictes per protegir aquestes dades i assegurar-se que s’utilitzen de manera responsable i ètica.
+
 
 > Written with [StackEdit](https://stackedit.io/).
