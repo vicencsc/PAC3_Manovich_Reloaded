@@ -100,6 +100,7 @@ Waymo logo:[w:Waymo](https://commons.wikimedia.org/wiki/File:Waymo_logo.svg), Pu
 [^4]: WIKIPEDIA. [Alphabet](https://es.wikipedia.org/wiki/Alphabet) [en línia]. *Wikipedia*, Data de consulta: 07/05/2024.
 [^5]: WIKIPEDIA. [Vehículos autónomos](https://es.wikipedia.org/wiki/Veh%C3%ADculo_aut%C3%B3nomo) [en línia]. *Wikipedia*, Data de consulta: 10/05/2024.
 [^6]: WIKIPEDIA. [Waymo](https://es.wikipedia.org/wiki/Waymo) [en línia]. *Wikipedia*, Data de consulta: 11/05/2024.
+
 SCHWARZ, LEONARDO. [Las autoridades en USA toman una fuerte medida con Waymo, los taxis autónomos sin conductor](https://www.mundodeportivo.com/us/actualidad/20240523/690617/autoridades-toman-fuerte-medida-waymo-taxis-autonomos-conductor.html) [en línia]. *Mundo deportivo*, Data d'actualització: 23/05/2024 [consulta:24/05/2024].
 
 
