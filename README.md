@@ -83,7 +83,10 @@ Tant els altaveus intel·ligents com els taxis autònoms són exemples clars de 
 
 ----
 
-Llicència: Material Creative Commons desenvolupat sota llicència [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). 
+## Llicències: 
+
+Material Creative Commons desenvolupat sota llicència [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). 
+
 Imatges:
 
 
