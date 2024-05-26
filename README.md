@@ -93,3 +93,5 @@ Imatges:
 
 Original: Waymo self driving car side view: [Grendelkhan](https://commons.wikimedia.org/wiki/File:Waymo_self-driving_car_side_view.gk.jpg), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
+Original: Waymo logo:[w:Waymo](https://commons.wikimedia.org/wiki/File:Waymo_logo.svg), Public domain, via Wikimedia Commons
+
