@@ -13,7 +13,7 @@ Data: 26/05/2024
 
 Per començar, aturem-nos un moment en el concepte d’hibridació. Segons Lev Manovich, la **hibridació**[^1] és la combinació i mescla de diferents tecnologies, mitjans i llenguatges en un entorn digital. Aquest procés sovint implica canvis significatius en la nostra percepció de la cultura i la societat, així com en la manera en què creem, consumim i experimentem els mitjans.
 
-> "La hibridació" (Manovich, 2013)[^1]
+> "La hibridació" (Manovich, 2013)[^2]
 
 Dos exemples clars d’hibridació són els altaveus intel·ligents i els serveis de taxi amb vehicles de conducció autònoma. En aquest assaig analitzarem, des de la perspectiva de Manovich, el seu impacte actual, el seu futur amb l’aplicació de la intel·ligència artificial i els reptes que suposen per als usuaris i tota la societat.
 
@@ -69,7 +69,7 @@ Tant els altaveus intel·ligents com els taxis autònoms són exemples clars de 
 
 ### Referencias y Bibliografía
 
-[^1]: * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+[^1] [^2]: * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
 
 ----
