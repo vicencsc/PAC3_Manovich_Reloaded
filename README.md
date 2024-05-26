@@ -52,5 +52,6 @@ A nivell social, serà necessari desenvolupar polítiques que facin possible l�
 
 Finalment, la privacitat dels usuaris també està en perill, ja que els vehicles autònoms recopilen una gran quantitat de dades sobre les rutes, preferències i comportaments dels usuaris. Serà molt important establir normes estrictes per protegir aquestes dades i assegurar-se que s’utilitzen de manera responsable i ètica.
 
+## Conclusió
 
-> Written with [StackEdit](https://stackedit.io/).
+Tant els altaveus intel·ligents com els taxis autònoms són exemples clars de la hibridació que descriu Manovich. Tot i que els dos casos que hem exposat representen grans avanços tecnològics i tenen molts avantatges, també impliquen grans canvis socials i culturals, i sobretot presenten importants reptes que fan necessaris desenvolupar tota una sèrie de normatives i legislacions per protegir tots els usuaris i a la societat en general i per garantir un us segur i equitatiu d’aquestes tecnologies.
