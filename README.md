@@ -21,11 +21,11 @@ Dos exemples clars d’hibridació són els **altaveus intel·ligents** i els se
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
->"*Ok Google, quin temps farà aquesta setmana?*"
+>**"*Ok Google, quin temps farà aquesta setmana?*"**
 >
->"*Alexa, encén el llum de la cuina.*"
+>**"*Alexa, encén el llum de la cuina.*"**
 >
->"*Siri, posa música.*"
+>**"*Siri, posa música.*"**
 
 Aquestes frases són habituals per a molts de nosaltres en el nostre dia a dia a casa. Personalment, faig servir l’ecosistema de [**Google Nest**](https://store.google.com/es/product/nest_hub_2nd_gen?hl=es), juntament amb l'aplicació [**Google Home**](https://home.google.com/intl/es_es/welcome/), que em permet configurar tots els dispositius, però també hi ha altres opcions populars com [**Alexa**](https://www.amazon.es/b?ie=UTF8&node=15823644031) d’Amazon i [**Homepod**](https://www.apple.com/es/homepod/) d’Apple, a més de molts altres dispositius intel·ligents de marques menys conegudes. Encara que cada sistema té el seu propi protocol, els darrers anys ha sorgit un nou protocol anomenat **Matter**[^2], que permet configurar i interactuar fàcilment amb una gran multitud de dispositius de diferents fabricants.
 
