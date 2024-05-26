@@ -41,7 +41,7 @@ A nivell social, hi ha el perill de la **desigualtat digital**, ja que no tothom
 
 ## Re-descobrint la hibridació: Taxis de conducció autònoma
 
-![Taxis de conducció autònoma]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://upload.wikimedia.org/wikipedia/commons/1/1a/Waymo_self-driving_car_side_view.gk.jpg)) 
+![Taxis de conducció autònoma](https://upload.wikimedia.org/wikipedia/commons/1/1a/Waymo_self-driving_car_side_view.gk.jpg)
 
 Obro l'app al mòbil, introdueixo la destinació, el nombre de persones i l'hora i lloc de recollida. A l'hora acordada arriba el meu taxi, però... és un taxi sense conductor!
 
