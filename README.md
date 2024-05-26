@@ -94,7 +94,7 @@ Waymo logo:[w:Waymo](https://commons.wikimedia.org/wiki/File:Waymo_logo.svg), Pu
 
 ### Referències i Bibliografia
 
-[^1]: MANOVICH, LEV. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
+[^1]: MANOVICH, LEV. (2013). [*El Software toma el mando*]( https://cv.uoc.edu/webapps/cas/login?service=https%3A%2F%2Fcv.uoc.edu%2Ftren%2Ftrenacc%3Fmodul%3DDIMAX.DINAROJ%2Fdimaxweb.Pagina%26pantalla%3DHISTORICS%26node%3D73486%26entidad_gestora%3DDEF%26entorn_gestio%3DPV20232%26idioma%3DCAT%26lang%3Dca%26pantalla_his%3DXML_ARBRE_RECURSOS%26cami%3D%26p_entrada%3DPV). Barcelona: Editorial UOC. 
 [^2]: FERNÁNNDEZ, YÚBAL. [Qué es Matter: qué ventajas ofrece y cómo identificar sus dispositivos](https://www.xataka.com/basics/que-matter-que-ventajas-ofrece-como-identificar-sus-dispositivos) [en línia]. *Xataka*, Data de publicació: 11/01/2023 [consulta: 07/05/2024].
 [^3]: COSMOS. [Rutinas de la casa de Google Home: así puedes hacer más inteligente tu hogar](https://www.xatakandroid.com/aplicaciones-android/rutinas-casa-google-home-asi-puedes-hacer-inteligente-tu-hogar)[en línia]. *Xataka Android*, Data de publicació: 04/02/2023 [consulta: 07/05/2024].
 [^4]: WIKIPEDIA. [Alphabet](https://es.wikipedia.org/wiki/Alphabet) [en línia]. *Wikipedia*, Data de consulta: 07/05/2024.
