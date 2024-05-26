@@ -43,17 +43,17 @@ A nivell social, hi ha el perill de la **desigualtat digital**, ja que no tothom
 
 Obro l'app al mòbil, introdueixo la destinació, el nombre de persones i l'hora i lloc de recollida. A l'hora acordada arriba el meu taxi, però... és un taxi sense conductor!
 
-Això que encara no és molt habitual podria ser-ho en pocs anys. Els serveis públics de transport de passatgers amb vehicles de conducció autònoma, o taxis autònoms, encara estan en els seus inicis i disponibles en molt poques ciutats, però representen el futur de la nostra manera de moure'ns.
+Això que encara no és molt habitual podria ser-ho en pocs anys. Els **serveis públics de transport de passatgers amb vehicles de conducció autònoma, o taxis autònoms**, encara estan en els seus inicis i disponibles en molt poques ciutats, però representen el futur de la nostra manera de desplaçar-nos.
 
-Aquest taxis autònoms són un bon exemple de la hibridació descrita per Lev Manovich, ja que combinen tecnologia de conducció autònoma, basada en sensors, càmeres i algoritmes, l’accés a internet, que permet obtenir informació en temps real del trànsit, evitant embossos i seleccionant les millors rutes, etc., i la interacció amb els usuaris i usuàries mitjançant la veu i aplicacions mòbils, per sol·licitar el taxi autònom, indicar la destinació i rebre informació sobre el viatge en curs, etc.
+Aquest taxis autònoms són un bon exemple de la hibridació descrita per Lev Manovich, ja que **combinen tecnologia de conducció autònoma, basada en sensors, càmeres i algoritmes, l’accés a internet**, que permet obtenir informació en temps real del trànsit, evitant embossos i seleccionant les millors rutes, etc., i la interacció amb els usuaris i usuàries mitjançant la veu i aplicacions mòbils, per sol·licitar el taxi autònom, indicar la destinació i rebre informació sobre el viatge en curs, entre altres coses.
 
-Des de la perspectiva de Manovich, la utilització generalitzada dels taxis de conducció autònoma implicarà un gran canvi en la nostra manera de moure’ns per la ciutat, oferint un transport més eficient i segur. Potser fins i tot suposin la desaparició dels cotxes tal com els coneixem avui en dia, llevat d’algunes excepcions de cotxes particulars amb possibilitat de conducció autònoma, com els Tesla, que ja podem veure molt sovint per les nostres carreteres.
+Des de la perspectiva de Manovich, la utilització generalitzada dels taxis de conducció autònoma implicarà un gran **canvi en la nostra manera de moure’ns per la ciutat, oferint un transport més eficient i segur**. Potser fins i tot suposin la desaparició dels cotxes tal com els coneixem avui en dia, llevat d’algunes excepcions de cotxes particulars amb possibilitat de conducció autònoma, com els Tesla, que ja podem veure molt sovint per les nostres carreteres.
 
 Aquests serveis de taxis autònoms implicaran una reducció de la congestió del trànsit i dels accidents i la millora de la seguretat vial, a més de facilitar la mobilitat de persones amb discapacitat o sense carnet de conduir. Els vehicles autònoms operen de manera més segura i eficient que els conductors humans, ja que poden reaccionar més ràpidament davant de perills potencials i optimitzar les rutes per evitar zones congestionades.
 
-Aquests sistemes de conducció autònoma, encara que estan en els seus inicis, es beneficiaran enormement amb l’aplicació de la intel·ligència artificial més avançada, el que suposarà una millora notable en les capacitats d’aquesta tecnologia. Això permetrà una interacció més natural amb els passatgers. També permetrà adaptar-se millor a les condicions de trànsit, preveure accidents, millorar les rutes, entre altres avantatges.
+Aquests sistemes de conducció autònoma, encara que estan en els seus inicis, es beneficiaran enormement amb l’aplicació de la **intel·ligència artificial** més avançada, el que suposarà una millora notable en les capacitats d’aquesta tecnologia. Això permetrà una interacció més natural amb els passatgers. També permetrà adaptar-se millor a les condicions de trànsit, preveure accidents, millorar les rutes, entre altres avantatges.
 
-Una de les principals empreses que presten aquest tipus de serveis és Waymo, una empresa propietat d’Alphabet, matriu de Google, que opera a San Francisco i algunes altres ciutats dels EUA.
+Una de les principals empreses que presten aquest tipus de serveis és [Waymo](https://waymo.com/intl/es/), una empresa propietat d’Alphabet[^4], matriu de Google, que opera a San Francisco i algunes altres ciutats dels EUA.
 
 Com tot avanç tecnològic, quan es generalitzin els serveis de taxis amb conducció autònoma es presentaran alguns reptes importants. Un dels principals reptes és la probable pèrdua de llocs de treball per als conductors de taxi. A més, la responsabilitat en cas d’accidents serà un tema complicat de gestionar, ja que serà necessari establir qui és responsable quan es produeixi un incident.
 
@@ -72,6 +72,8 @@ Tant els altaveus intel·ligents com els taxis autònoms són exemples clars de 
 [^1]: * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 [^2]: *Xataca*. [**Qué ventajas ofrece y como identificar sus dispositivos**](https://www.xataka.com/basics/que-matter-que-ventajas-ofrece-como-identificar-sus-dispositivos)
 [^3]: *Xataca Android*. [**Rutinas de la casa de Google Home: así puedes hacer más inteligente tu hogar**](https://www.xatakandroid.com/aplicaciones-android/rutinas-casa-google-home-asi-puedes-hacer-inteligente-tu-hogar).
+[^4]: *Wikipedia*. [**Alphabet**](https://es.wikipedia.org/wiki/Alphabet).
+
 ----
 
 Llicència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0. 
