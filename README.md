@@ -19,7 +19,7 @@ Dos exemples clars d’hibridació són els **altaveus intel·ligents** i els se
 
 ## Re-descobrint la hibridació: Altaveus intel·ligents
 
-![Google Nest](20240526_154315.jpg) 
+![Google Nest](google-nest-vsastre.jpg) 
 
 >**"*Ok Google, quin temps farà aquesta setmana?*"**
 >
