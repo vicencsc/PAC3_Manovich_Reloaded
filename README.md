@@ -49,7 +49,7 @@ A nivell social, hi ha el perill de la **desigualtat digital**, ja que no tothom
 
 Obro l'app al mòbil, introdueixo la destinació, el nombre de persones, l'hora i lloc de recollida. A l'hora acordada arriba el meu taxi, però... és un taxi sense conductor!.
 
-Això que encara no és molt habitual podria ser-ho en pocs anys. Els **serveis públics de transport de passatgers amb vehicles de conducció autònoma, o taxis autònoms**, encara estan en els seus inicis i disponibles en molt poques ciutats, però representen el futur de la nostra manera de desplaçar-nos.
+Això que encara no és molt habitual podria ser-ho en pocs anys. Els **serveis públics de transport de passatgers amb vehicles de conducció autònoma, o taxis autònoms**[^5], encara estan en els seus inicis i disponibles en molt poques ciutats, però representen el futur de la nostra manera de desplaçar-nos.
 
 Aquest taxis autònoms són un bon exemple de la hibridació descrita per Lev Manovich, ja que **combinen tecnologia de conducció autònoma, basada en sensors, càmeres i algoritmes, l’accés a internet**, que permet obtenir informació en temps real del trànsit, evitant embossos i seleccionant les millors rutes, etc., i la interacció amb els usuaris i usuàries mitjançant la veu i aplicacions mòbils, per sol·licitar el taxi autònom, indicar la destinació i rebre informació sobre el viatge en curs, entre altres coses.
 
@@ -61,7 +61,7 @@ Aquests sistemes de conducció autònoma, encara que estan en els seus inicis, e
 
 ![Waymo](https://upload.wikimedia.org/wikipedia/commons/9/9f/Waymo_logo.svg)
 
-Una de les principals empreses que presten aquest tipus de serveis és [Waymo](https://waymo.com/intl/es/), una empresa propietat d’**Alphabet**[^4], matriu de Google, que opera a San Francisco i algunes altres ciutats dels EUA.
+Una de les principals empreses que presten aquest tipus de serveis és [Waymo](https://waymo.com/intl/es/)[^6], una empresa propietat d’**Alphabet**[^4], matriu de Google, que opera a San Francisco i algunes altres ciutats dels EUA.
 
 Com tot avanç tecnològic, quan es generalitzin els serveis de taxis amb conducció autònoma es presentaran alguns **reptes importants**. Un dels principals reptes és la probable **pèrdua de llocs de treball** per als conductors de taxi. A més, la **responsabilitat en cas d’accidents** serà un tema complicat de gestionar, ja que serà necessari establir qui és responsable quan es produeixi un incident.
 
@@ -100,6 +100,6 @@ Waymo logo:[w:Waymo](https://commons.wikimedia.org/wiki/File:Waymo_logo.svg), Pu
 [^4]: WIKIPEDIA. [Alphabet](https://es.wikipedia.org/wiki/Alphabet) [en línia]. *Wikipedia*, Data de consulta: 07/05/2024.
 [^5]: WIKIPEDIA. [Vehículos autónomos](https://es.wikipedia.org/wiki/Veh%C3%ADculo_aut%C3%B3nomo) [en línia]. *Wikipedia*, Data de consulta: 10/05/2024.
 [^6]: WIKIPEDIA. [Waymo](https://es.wikipedia.org/wiki/Waymo) [en línia]. *Wikipedia*, Data de consulta: 11/05/2024.
-[^7]: SCHWARZ, LEONARDO. [Las autoridades en USA toman una fuerte medida con Waymo, los taxis autónomos sin conductor](https://www.mundodeportivo.com/us/actualidad/20240523/690617/autoridades-toman-fuerte-medida-waymo-taxis-autonomos-conductor.html) [en línia]. *Mundo deportivo*, Data d'actualització: 23/05/2024 [consulta:24/05/2024].
+SCHWARZ, LEONARDO. [Las autoridades en USA toman una fuerte medida con Waymo, los taxis autónomos sin conductor](https://www.mundodeportivo.com/us/actualidad/20240523/690617/autoridades-toman-fuerte-medida-waymo-taxis-autonomos-conductor.html) [en línia]. *Mundo deportivo*, Data d'actualització: 23/05/2024 [consulta:24/05/2024].
 
 
