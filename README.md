@@ -19,11 +19,11 @@ Dos exemples clars d’hibridació són els altaveus intel·ligents i els servei
 
 ## Re-descobrint la hibridació: Altaveus intel·ligents
 
-"Ok Google, quin temps farà aquesta setmana?"
+> "Ok Google, quin temps farà aquesta setmana?"
 
-"Alexa, encén el llum de la cuina."
+> "Alexa, encén el llum de la cuina."
 
-"Siri, posa música."
+> "Siri, posa música."
 
 Aquestes frases són habituals per a molts de nosaltres en el nostre dia a dia a casa. Personalment, faig servir l’ecosistema de Google, però també hi ha altres opcions populars com Alexa d’Amazon i Siri d’Apple, a més de molts altres dispositius intel·ligents menys coneguts que formen part d'un extens catàleg.
 
