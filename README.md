@@ -73,6 +73,9 @@ Finalment, la **privacitat** dels usuaris també està en perill, ja que els veh
 
 Tant els altaveus intel·ligents com els taxis autònoms són exemples clars de la hibridació que descriu Manovich. Tot i que els dos casos que hem exposat representen grans avanços tecnològics i tenen molts avantatges, també impliquen grans canvis socials i culturals, i sobretot presenten importants reptes que fan necessaris desenvolupar tota una sèrie de normatives i legislacions per protegir tots els usuaris i la societat en general, i per garantir un ús segur i equitatiu d’aquestes tecnologies.
 
+###Llicència
+Material Creative Commons sota llicència [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca).
+
 ### Referències i Bibliografia
 
 [^1]: * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
