@@ -76,7 +76,21 @@ Finalment, la **privacitat** dels usuaris també està en perill, ja que els veh
 Tant els **altaveus intel·ligents** com els **taxis autònoms** són clars exemples de la hibridació que descriu Manovich. Tot i que els dos casos que hem exposat representen grans avanços tecnològics i tenen molts avantatges, també impliquen grans canvis socials i culturals, i sobretot presenten importants reptes que fan necessaris desenvolupar tota una sèrie de normatives i legislacions per protegir tots els usuaris i la societat en general, i per garantir un ús segur i equitatiu d’aquestes tecnologies.
 
 
+----
 
+### Llicències: 
+
+Excepte on s'indiqui el contrari, tot el contingut d'aquest projecte està desenvolupat sota llicència Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). 
+
+Imatges:
+
+Google Nest: Imatge original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
+
+Rutines Google Home: Imatge original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
+
+Waymo self driving car side view: [Grendelkhan](https://commons.wikimedia.org/wiki/File:Waymo_self-driving_car_side_view.gk.jpg), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+
+Waymo logo:[w:Waymo](https://commons.wikimedia.org/wiki/File:Waymo_logo.svg), Public domain, via Wikimedia Commons
 
 ### Referències i Bibliografia
 
@@ -88,20 +102,4 @@ Tant els **altaveus intel·ligents** com els **taxis autònoms** són clars exem
 [^6]: WIKIPEDIA. [Waymo](https://es.wikipedia.org/wiki/Waymo) [en línia]. *Wikipedia*, Data de consulta: 11/05/2024.
 [^7]: SCHWARZ, LEONARDO. [Las autoridades en USA toman una fuerte medida con Waymo, los taxis autónomos sin conductor](https://www.mundodeportivo.com/us/actualidad/20240523/690617/autoridades-toman-fuerte-medida-waymo-taxis-autonomos-conductor.html) [en línia]. *Mundo deportivo*, Data d'actualització: 23/05/2024 [consulta:24/05/2024].
 
-
-----
-
-## Llicències: 
-
-Excepte on s'indique el contrari, tot el contingut d'aquest projecte està desenvolupat sota llicència Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca). 
-
-Imatges:
-
-Google Nest: Imatge original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
-
-Rutines Google Home: Imatge original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
-
-Waymo self driving car side view: [Grendelkhan](https://commons.wikimedia.org/wiki/File:Waymo_self-driving_car_side_view.gk.jpg), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
-
-Waymo logo:[w:Waymo](https://commons.wikimedia.org/wiki/File:Waymo_logo.svg), Public domain, via Wikimedia Commons
 
