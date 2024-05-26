@@ -57,6 +57,8 @@ Aquests serveis de taxis autònoms implicaran una reducció de la congestió del
 
 Aquests sistemes de conducció autònoma, encara que estan en els seus inicis, es beneficiaran enormement amb l’aplicació de la **intel·ligència artificial** més avançada, el que suposarà una millora notable en les capacitats d’aquesta tecnologia. Això permetrà una interacció més natural amb els passatgers. També permetrà adaptar-se millor a les condicions de trànsit, preveure accidents, millorar les rutes, entre altres avantatges.
 
+![Waymo](https://upload.wikimedia.org/wikipedia/commons/9/9f/Waymo_logo.svg)
+
 Una de les principals empreses que presten aquest tipus de serveis és [Waymo](https://waymo.com/intl/es/), una empresa propietat d’**Alphabet**[^4], matriu de Google, que opera a San Francisco i algunes altres ciutats dels EUA.
 
 Com tot avanç tecnològic, quan es generalitzin els serveis de taxis amb conducció autònoma es presentaran alguns **reptes importants**. Un dels principals reptes és la probable **pèrdua de llocs de treball** per als conductors de taxi. A més, la **responsabilitat en cas d’accidents** serà un tema complicat de gestionar, ja que serà necessari establir qui és responsable quan es produeixi un incident.
