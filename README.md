@@ -15,7 +15,7 @@ Segons Lev Manovich, la **hibridació** és la combinació i mescla de diferents
 
 > *"**Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles.**"* (Manovich, 2013)[^1]
 
-Dos exemples clars d’hibridació són els **altaveus intel·ligents** i els serveis de **taxi amb vehicles de conducció autònoma**. En aquest assaig analitzarem, des de la perspectiva de Manovich, el seu impacte actual, el seu futur amb l’aplicació de la intel·ligència artificial i els reptes que suposen per als usuaris i tota la societat en general.
+Dos exemples clars d’hibridació són els **altaveus intel·ligents** i els serveis de **taxi amb vehicles de conducció autònoma**. En aquest informe-assaig analitzarem, des de la perspectiva de Manovich, el seu impacte actual, el seu futur amb l’aplicació de la intel·ligència artificial i els reptes que suposen per als usuaris i tota la societat en general.
 
 ## Re-descobrint la hibridació: Altaveus intel·ligents
 
