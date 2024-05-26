@@ -15,15 +15,15 @@ Per començar, aturem-nos un moment en el concepte d’hibridació. Segons Lev M
 
 > "Las propiedades y tecnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vias que antes resultaban imposibles." (Manovich, 2013)[^1]
 
-Dos exemples clars d’hibridació són els altaveus intel·ligents i els serveis de taxi amb vehicles de conducció autònoma. En aquest assaig analitzarem, des de la perspectiva de Manovich, el seu impacte actual, el seu futur amb l’aplicació de la intel·ligència artificial i els reptes que suposen per als usuaris i tota la societat.
+Dos exemples clars d’hibridació són els **altaveus intel·ligents** i els serveis de **taxi amb vehicles de conducció autònoma**. En aquest assaig analitzarem, des de la perspectiva de Manovich, el seu impacte actual, el seu futur amb l’aplicació de la intel·ligència artificial i els reptes que suposen per als usuaris i tota la societat en general.
 
 ## Re-descobrint la hibridació: Altaveus intel·ligents
 
-"Ok Google, quin temps farà aquesta setmana?"
-
-"Alexa, encén el llum de la cuina."
-
-"Siri, posa música."
+>"Ok Google, quin temps farà aquesta setmana?"
+>
+>"Alexa, encén el llum de la cuina."
+>
+>"Siri, posa música."
 
 Aquestes frases són habituals per a molts de nosaltres en el nostre dia a dia a casa. Personalment, faig servir l’ecosistema de Google, però també hi ha altres opcions populars com Alexa d’Amazon i Siri d’Apple, a més de molts altres dispositius intel·ligents menys coneguts que formen part d'un extens catàleg.
 
