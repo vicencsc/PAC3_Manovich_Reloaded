@@ -7,6 +7,9 @@ Autor: Vicenç Sastre Calvó
 Data: 26/05/2024
 
 
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+
+
 ## Plantejament
 
 Per començar, aturem-nos un moment en el concepte d’hibridació. Segons Lev Manovich, la hibridació és la combinació i mescla de diferents tecnologies, mitjans i llenguatges en un entorn digital. Aquest procés sovint implica canvis significatius en la nostra percepció de la cultura i la societat, així com en la manera en què creem, consumim i experimentem els mitjans.
@@ -37,7 +40,7 @@ A nivell social, hi ha el perill de la desigualtat digital, ja que no tothom dis
 
 ## Re-descobrint la hibridació: Taxis de conducció autònoma
 
-Obro l'app al mòbil, introdueixo la destinació, el nombre de persones i l'hora i lloc de recollida. A l'hora acordada arriba el meu taxi, però... un taxi sense conductor!
+Obro l'app al mòbil, introdueixo la destinació, el nombre de persones i l'hora i lloc de recollida. A l'hora acordada arriba el meu taxi, però... és un taxi sense conductor!
 
 Això que encara no és molt habitual podria ser-ho en pocs anys. Els serveis públics de transport de passatgers amb vehicles de conducció autònoma, o taxis autònoms, encara estan en els seus inicis i disponibles en molt poques ciutats, però representen el futur de la nostra manera de moure'ns.
 
@@ -62,6 +65,17 @@ Finalment, la privacitat dels usuaris també està en perill, ja que els vehicle
 ## Conclusió
 
 Tant els altaveus intel·ligents com els taxis autònoms són exemples clars de la hibridació que descriu Manovich. Tot i que els dos casos que hem exposat representen grans avanços tecnològics i tenen molts avantatges, també impliquen grans canvis socials i culturals, i sobretot presenten importants reptes que fan necessaris desenvolupar tota una sèrie de normatives i legislacions per protegir tots els usuaris i la societat en general, i per garantir un ús segur i equitatiu d’aquestes tecnologies.
+
+### Referencias y Bibliografía
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+
+----
+
+Llicència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0. 
+Imatges CC BY [Tubik studio]
+(https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
 
 
