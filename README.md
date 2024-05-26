@@ -93,9 +93,11 @@ Material Creative Commons desenvolupat sota llicència [CC BY-SA 4.0](https://cr
 
 Imatges:
 
-Google Nest: Foto original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
+Google Nest: Imatge original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
 
-Original: Waymo self driving car side view: [Grendelkhan](https://commons.wikimedia.org/wiki/File:Waymo_self-driving_car_side_view.gk.jpg), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+Rutines Google Home: Imatge original de l'autor del document, Vicenç Sastre, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>.
 
-Original: Waymo logo:[w:Waymo](https://commons.wikimedia.org/wiki/File:Waymo_logo.svg), Public domain, via Wikimedia Commons
+Waymo self driving car side view: [Grendelkhan](https://commons.wikimedia.org/wiki/File:Waymo_self-driving_car_side_view.gk.jpg), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+
+Waymo logo:[w:Waymo](https://commons.wikimedia.org/wiki/File:Waymo_logo.svg), Public domain, via Wikimedia Commons
 
