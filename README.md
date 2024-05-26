@@ -45,7 +45,7 @@ A nivell social, hi ha el perill de la **desigualtat digital**, ja que no tothom
 
 ![Taxis de conducció autònoma](https://upload.wikimedia.org/wikipedia/commons/1/1a/Waymo_self-driving_car_side_view.gk.jpg)
 
-Obro l'app al mòbil, introdueixo la destinació, el nombre de persones, l'hora i lloc de recollida. A l'hora acordada arriba el meu taxi, però... és un taxi sense conductor!
+Obro l'app al mòbil, introdueixo la destinació, el nombre de persones, l'hora i lloc de recollida. A l'hora acordada arriba el meu taxi, però... és un taxi sense conductor!.
 
 Això que encara no és molt habitual podria ser-ho en pocs anys. Els **serveis públics de transport de passatgers amb vehicles de conducció autònoma, o taxis autònoms**, encara estan en els seus inicis i disponibles en molt poques ciutats, però representen el futur de la nostra manera de desplaçar-nos.
 
