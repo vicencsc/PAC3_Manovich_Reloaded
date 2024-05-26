@@ -69,7 +69,7 @@ Tant els altaveus intel·ligents com els taxis autònoms són exemples clars de 
 
 ### Referencias y Bibliografía
 
-[^1] [^2]: * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+[^1]: * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
 
 ----
